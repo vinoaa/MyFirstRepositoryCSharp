@@ -15,4 +15,4 @@
 * Что такое GitHub
 * Что такое Markdown
 
-* add option.md 14:42
+* add option.md
